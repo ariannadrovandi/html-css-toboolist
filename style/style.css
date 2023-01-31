@@ -9,6 +9,7 @@ body{
     background-color: rgb(241, 239, 239);
 }
 
+/*header*/
 header{
    background-color: white; 
 }
@@ -26,7 +27,9 @@ header img{
 .image-logo{
     text-align: center;
 }
+/*/header*/
 
+/*main*/
 main{
     width: 80%;
     margin: 0 auto;
@@ -94,6 +97,19 @@ button{
     display: inline-block;
 }
 
+.mark2{
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    border: 2px solid red;
+    color: red;
+    text-align: center;
+    line-height: 18px;
+    font-size: 12px;
+    display: inline-block;
+}
+
+
 .text{
     font-weight: 550;
     font-size: 18px;
@@ -113,5 +129,69 @@ button{
     color: white;
 }
 
+.Q1-Goals{
+    width: 65px;
+    height: 25px;
+    border: none;
+    border-radius: 8px;
+    background-color: rgb(160, 129, 245);
+    font-size: 12px;
+    text-align: center;
+    display: inline-block;
+    line-height: 22px;
+    color: white;
+}
 
+.Recruiting{
+    width: 65px;
+    height: 25px;
+    border: none;
+    border-radius: 8px;
+    background-color: rgb(23, 170, 60);
+    font-size: 12px;
+    text-align: center;
+    display: inline-block;
+    line-height: 22px;
+    color: white;
+}
+
+.Mobile{
+    width: 65px;
+    height: 25px;
+    border: none;
+    border-radius: 8px;
+    background-color: rgb(255, 177, 31);
+    font-size: 12px;
+    text-align: center;
+    display: inline-block;
+    line-height: 22px;
+    color: white;
+}
+
+.Website{
+    width: 65px;
+    height: 25px;
+    border: none;
+    border-radius: 8px;
+    background-color: rgb(247, 36, 229);
+    font-size: 12px;
+    text-align: center;
+    display: inline-block;
+    line-height: 22px;
+    color: white;
+}
+
+.Sales{
+    width: 50px;
+    height: 25px;
+    border: none;
+    border-radius: 8px;
+    background-color: rgb(142, 211, 125);
+    font-size: 12px;
+    text-align: center;
+    display: inline-block;
+    line-height: 22px;
+    color: white;
+}
+/*/main*/
 
